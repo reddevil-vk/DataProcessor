@@ -24,3 +24,15 @@
 /Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.dll
 /Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.pdb
 /Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.genruntimeconfig.cache
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/bin/Debug/netcoreapp3.1/DataProcessor.deps.json
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/bin/Debug/netcoreapp3.1/DataProcessor.runtimeconfig.json
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/bin/Debug/netcoreapp3.1/DataProcessor.runtimeconfig.dev.json
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/bin/Debug/netcoreapp3.1/DataProcessor.dll
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/bin/Debug/netcoreapp3.1/DataProcessor.pdb
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.AssemblyInfoInputs.cache
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.AssemblyInfo.cs
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.csproj.CoreCompileInputs.cache
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.dll
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.pdb
+/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/Debug/netcoreapp3.1/DataProcessor.genruntimeconfig.cache

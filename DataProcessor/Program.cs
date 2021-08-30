@@ -22,7 +22,7 @@ namespace DataProcessor
                 Console.WriteLine("Input a number below");
 
                 input.sourceInput = Console.ReadLine();
-
+                
                 Console.WriteLine("----------------------------------------");
 
                 input.inputSourceValidation();

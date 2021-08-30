@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/DataProcessor.csproj": {}
+    "/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/DataProcessor.csproj": {}
   },
   "projects": {
-    "/Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/DataProcessor.csproj": {
+    "/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/DataProcessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/DataProcessor.csproj",
+        "projectUniqueName": "/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/DataProcessor.csproj",
         "projectName": "DataProcessor",
-        "projectPath": "/Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/DataProcessor.csproj",
+        "projectPath": "/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/DataProcessor.csproj",
         "packagesPath": "/Users/vaibhavkalekar/.nuget/packages/",
-        "outputPath": "/Users/vaibhavkalekar/Documents/GitHub/DataProcessor/src/DataProcessor/DataProcessor/obj/",
+        "outputPath": "/Users/vaibhavkalekar/Documents/DataProcessor-CodingAssignment/DataProcessor/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vaibhavkalekar/.config/NuGet/NuGet.Config"

@@ -48,10 +48,9 @@ namespace DataProcessor
                 Console.WriteLine("Please enter a Filepath");
                 _filePath = Console.ReadLine();
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                //Console.WriteLine("There was a problem with filepath - "+ ex.Message);
-                throw ex;
+                throw new Exception("There was a problem with the file path.");
             }
         }
 
@@ -81,9 +80,9 @@ namespace DataProcessor
                         break;
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("There was a problem with parsing the input source.");
             }
         }
 
@@ -126,9 +125,9 @@ namespace DataProcessor
                         break;
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("There was a problem with reading the filepath or parsing the input DataType.");
             }
         }
 
@@ -150,9 +149,9 @@ namespace DataProcessor
                 }
                 return contents;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("There was a problem reading the file from the source.");
             }
         }
     }

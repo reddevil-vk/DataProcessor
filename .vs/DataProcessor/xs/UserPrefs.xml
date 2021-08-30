@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{8189C035-57FA-40CC-BA4A-AED640DF02BF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DataProcessor/Processor/FileProcessing.cs">
+    <Files>
+      <File FileName="DataProcessor/UserInput.cs" Line="154" Column="90" />
+      <File FileName="DataProcessor/Program.cs" Line="21" Column="68" />
+      <File FileName="DataProcessor/Processor/FileProcessing.cs" Line="29" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataProcessor" expanded="True">
+            <Node name="DataProcessor" expanded="True">
+              <Node name="Enums" expanded="True" />
+              <Node name="InputFiles" expanded="True" />
+              <Node name="Processor" expanded="True">
+                <Node name="FileProcessing.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DataProcessor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

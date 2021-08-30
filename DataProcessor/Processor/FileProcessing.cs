@@ -24,9 +24,9 @@ namespace DataProcessor.Processor
 
                 return Convert.ToBase64String(bytes,0,4);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("There was a problem with converting the data to binary");
             }
             
         }
@@ -71,9 +71,9 @@ namespace DataProcessor.Processor
 
                 return result;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("There was a problem encoding the text file.");
             }
         }
 
@@ -118,9 +118,9 @@ namespace DataProcessor.Processor
                 
                 return result;
             }
-            catch (Exception ex)
+            catch (Exception)
             {
-                throw ex;
+                throw new Exception("There was a problem with encoding and/or reversing the text in the file.");
 
             }
         }
